@@ -4,6 +4,7 @@
   <test name="Leads">
     <classes>
       <class name="com.leaftaps.testcases.TC001_JustLogin"/>
+      <class name="com.leaftaps.testcases.TC003_JustLogin"/> <!--  Tc3 aaded dev -->
     </classes>
   </test> 
 </suite>
